@@ -2,6 +2,7 @@
 Welcome <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></h2>
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=appveyor&logoColor=white)](https://dibodev.com)
+[![CV](https://img.shields.io/badge/-CV-yellow?style=for-the-badge)](https://github.com/Leoglme/Leoglme/blob/main/cv-leo-guillaume.pdf)
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/leoglme)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dibodev/)
 ----
