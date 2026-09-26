@@ -1,8 +1,8 @@
 <h2 align="left">Léo Guillaume · Dibodev</h2>
 
-**Développeur freelance full-stack près de Rennes (Bretagne).** Je crée des applications métier et des logiciels de gestion sur mesure, des SaaS et des sites web pour les TPE et PME, avec Nuxt, Vue.js et TypeScript.
+**Développeur freelance full-stack et IA près de Rennes (Bretagne).** Je crée des applications métier et des logiciels de gestion sur mesure, des SaaS et des sites web pour les TPE et PME, avec Nuxt, Vue.js et TypeScript.
 
-*Freelance full-stack developer near Rennes, France: custom business software, SaaS and websites built with Nuxt, Vue.js and TypeScript.*
+*Freelance full-stack and AI developer near Rennes, France: custom business software, SaaS and websites built with Nuxt, Vue.js and TypeScript.*
 
 [![Site](https://img.shields.io/badge/-dibodev.fr-6b59d9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dibodev.fr)
 [![Application métier](https://img.shields.io/badge/-Application%20m%C3%A9tier%20sur%20mesure-111827?style=for-the-badge)](https://dibodev.fr/application-metier-sur-mesure-rennes)
@@ -11,6 +11,11 @@
 [![CV](https://img.shields.io/badge/-CV-yellow?style=for-the-badge)](https://github.com/Leoglme/Leoglme/blob/main/cv-leo-guillaume.pdf)
 
 ----
+
+<h3>En ce moment</h3>
+
+- En mission chez **PrePeers** depuis avril 2026, une startup EdTech qui aide les 15-25 ans à choisir leur orientation grâce à l'IA : plateforme étudiante en Nuxt, chats IA d'orientation (Lola pour les étudiants, Lily sur les sites des écoles partenaires), intégration CRM côté API .NET et suivi analytique.
+- En parallèle, des applications métier sur mesure pour les TPE et PME avec [Dibodev](https://dibodev.fr/a-propos).
 
 <h3>Ce que je fais</h3>
 
